@@ -1,0 +1,19 @@
+{
+  "name": "ajs-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "GSahar"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gsahar/ajs": "^1.0.0"
+  }
+}
